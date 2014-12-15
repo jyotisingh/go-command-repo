@@ -47,7 +47,7 @@ full documentation. Each item of documentation is key:value. Only whitespace cha
 precede a key. Value terminates with newline (no multi-line values). Descriptions longer than about 250
 characters may get truncated in the admin GUI on the Go Server.
 
-**note:** author refers to author of the command xml file, not the underlying tool :-)
+**note:** author refers to the author of the command xml file, not the underlying tool :-)
 
     <!--
       name: curl
